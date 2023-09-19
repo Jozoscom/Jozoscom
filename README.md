@@ -1,1 +1,2 @@
-Hi Welcome!
+Hi. Welcome to Fact Horror App...
+Telegram Channel : @Fact_Horror
